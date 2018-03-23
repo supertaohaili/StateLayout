@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StateLayout.iml" filepath="$PROJECT_DIR$/StateLayout.iml" />
+      <module fileurl="file://E:\design\StateManager\StateManager.iml" filepath="E:\design\StateManager\StateManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\design\StateManager\app\app.iml" filepath="E:\design\StateManager\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://E:\design\StateManager\library\library.iml" filepath="E:\design\StateManager\library\library.iml" />
+    </modules>
+  </component>
+</project>
